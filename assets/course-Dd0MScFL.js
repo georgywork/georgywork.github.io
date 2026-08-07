@@ -1,0 +1,1 @@
+import{a as e,n as t}from"./globals-C0gqadTT.js";import{r as n,t as r}from"./seo-DVcdHA0k.js";import{t as i}from"./page-7XAIsVKr.js";var a=e(),o=t();function s(){return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(n,{data:r}),(0,o.jsx)(i,{})]})}var c=document.getElementById(`root`);c.hasChildNodes()?(0,a.hydrateRoot)(c,(0,o.jsx)(s,{})):(0,a.createRoot)(c).render((0,o.jsx)(s,{}));
