@@ -1,0 +1,1 @@
+import{a as e,n as t}from"./globals-DNEupU4E.js";import{t as n}from"./page-O7BAseEp.js";var r=e(),i=t(),a=document.getElementById(`root`);a.hasChildNodes()?(0,r.hydrateRoot)(a,(0,i.jsx)(n,{})):(0,r.createRoot)(a).render((0,i.jsx)(n,{}));
