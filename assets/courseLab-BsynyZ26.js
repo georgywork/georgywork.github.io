@@ -1,0 +1,1 @@
+import{c as e,r as t}from"./globals-BYeIYCAx.js";import{t as n}from"./page-C2tY7kmz.js";var r=e(),i=t(),a=document.getElementById(`root`);a.hasChildNodes()?(0,r.hydrateRoot)(a,(0,i.jsx)(n,{})):(0,r.createRoot)(a).render((0,i.jsx)(n,{}));
